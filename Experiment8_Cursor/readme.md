@@ -146,7 +146,7 @@ The program should display employee records or the appropriate error message if 
 2. **OTHERS**: For any unexpected errors during execution.
 
 **Steps:**
-
+ 
 - Modify the `employees` table to include a `dept_no` and `salary` field.
 - Insert sample data into the `employees` table with different department numbers.
 - Use a cursor with the `FOR UPDATE` clause to lock the rows of employees in a specific department and update their salary.
