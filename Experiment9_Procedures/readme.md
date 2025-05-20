@@ -102,7 +102,7 @@ Factorial of 5 is 120
 - Call the function and display the output.
 
 **Expected Output:**  
-Reversed number of 1234 is 4321
+Reversed number of 1234 is 4321 
 
 ---
 
